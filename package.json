@@ -1,6 +1,6 @@
 {
   "name": "value-replace",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Replace object values with String.prototype.replace",
   "license": "MIT",
   "repository": "gillstrom/value-replace",
